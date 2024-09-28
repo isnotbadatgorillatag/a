@@ -80,7 +80,7 @@ checkdeps() {
 # URLs of all possibls architectures
 
 seturl() {
-	URL="https://images.kali.org/nethunter/kalifs-${SETARCH}-${chroot}.tar.xz"
+	URL="https://old.kali.org/nethunter-images/kali-2021.3/rootfs/kalifs-arm64-full.tar.xz"
 }
 
 # Utility function to get tar file
