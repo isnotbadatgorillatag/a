@@ -187,7 +187,7 @@ if [[ ! -z $1 ]]; then
     fi
 fi
 
-printf "\n${yellow} You are going to install Kali Nethunter In Termux Without Root ;) Cool\n\n"
+printf "\n${yellow} THIS IS NOT THE ORIGINAL SCRIPT. I DID NOT MAKE IT, NOR EVER HAVE OWNERSHIP, THIS IS JUST A FIX FOR THE BROKEN LINKS!!!\n\n"
 
 pre_cleanup
 checksysinfo
